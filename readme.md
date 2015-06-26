@@ -1,2 +1,2 @@
 Wow did I just learn a lot about putting together a coffeescript/stylus application...
-_So much time spent doing it the wrong way!_
+> _So much time spent doing it the wrong way!_
