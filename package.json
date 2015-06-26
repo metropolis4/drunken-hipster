@@ -3,8 +3,5 @@
     "coffee-script": "^1.9.3",
     "express": "^4",
     "jade": "^1"
-  },
-  "scripts": {
-    "watch-coffee": "coffee -w -o app/ -c dev/"
   }
 }
